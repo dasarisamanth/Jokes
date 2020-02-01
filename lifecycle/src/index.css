@@ -1,0 +1,9 @@
+body {
+  background: rgb(193,93,214);
+background: radial-gradient(circle, rgba(193,93,214,1) 39%, rgba(148,187,233,1) 93%);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
