@@ -1,7 +1,6 @@
 body {
-  background: rgb(193,93,214);
-background: radial-gradient(circle, rgba(193,93,214,1) 39%, rgba(148,187,233,1) 93%);
-}
+  background: rgb(42,41,43);
+  background: radial-gradient(circle, rgba(42,41,43,1) 0%, rgba(89,105,127,1) 96%, rgba(148,187,233,1) 100%);}
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',

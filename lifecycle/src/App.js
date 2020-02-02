@@ -1,14 +1,15 @@
 import React from 'react';
-import logo from './logo.svg';
+
 import './App.css';
-import Zenquote from './Zenquote';
+import Posters from './Posters';
+
 
 
 function App() {
   return (
     <div className="App">
      
-      <Zenquote/>
+      <Posters/>
     </div>
   );
 }
